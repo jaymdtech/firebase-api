@@ -1,0 +1,25 @@
+{
+  "name": "firebase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/jaymdtech/firebase-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaymdtech/firebase-api/issues"
+  },
+  "homepage": "https://github.com/jaymdtech/firebase-api#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "firebase-admin": "^11.10.1"
+  }
+}
